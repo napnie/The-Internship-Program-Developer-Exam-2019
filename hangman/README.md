@@ -12,5 +12,5 @@ by Nitith Chayakul
     ```
 1. Play the game
 
-## Referance
+## Reference
 [Parse CSV Data Using The Go Programming Language](https://www.thepolyglotdeveloper.com/2017/03/parse-csv-data-go-programming-language/)
